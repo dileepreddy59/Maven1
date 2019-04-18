@@ -6,11 +6,9 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 	
-	<configuration>
-		<failOnMissingWebXml>false</failOnMissingWebXml>
-	</configuration>
-  
-  <dependencies>
+	<failOnMissingWebXml>false</failOnMissingWebXml>
+	
+    <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
